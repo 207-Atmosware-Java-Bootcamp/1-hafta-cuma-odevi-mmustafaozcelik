@@ -1,0 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+/* body */
+
+body {
+    text-align: center;
+}
+
+
+/* html */
+
+html {
+    font-size: 15px;
+    position: relative;
+}
+
+
+/* favicon_ıd */
+
+#favicon_id {
+    width: 3rem;
+}
+
+
+/* header1 */
+
+.header1 {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    opacity: 0.9;
+}
+
+
+/* header */
+
+header {
+    background-image: url('picture/header.jpg');
+    background-size: cover;
+    background-position: 50% 50%;
+    padding-top: 15rem;
+    height: 50rem;
+    z-index: -1;
+    opacity: .95;
+}
+
+
+/* link_icon */
+
+.link_icon {
+    padding-top: 2rem;
+    padding-left: 49%;
+    padding-bottom: 2rem;
+}
+
+
+/* footer */
+
+footer {
+    background-color: rgb(244, 245, 245);
+    min-height: 1rem;
+    width: auto;
+}
